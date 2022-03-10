@@ -105,3 +105,8 @@ a, a:hover {
     border-radius: 4px;
 
 }
+
+.dsmmovie-form-container{
+    padding: 40px 0;
+    max-width: 480px;
+}
